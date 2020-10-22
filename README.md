@@ -5,3 +5,6 @@ API - OpenWeather API
 References: 
 1. How to Program a GUI Application (with Python Tkinter)- https://www.youtube.com/watch?v=D8-snVfekto 
 2. OpenWeather https://openweathermap.org/api
+
+Yet to do: 
+1. Make the search more efficient - dropdown containing suggestions
